@@ -155,20 +155,6 @@ The project was tested on MRI brain scans including cases of:
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use it for learning and research.
-
----
 
 ## ⭐ Show Your Support
 
