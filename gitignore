@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# Uploaded images (don't commit user data)
+static/uploads/
+
+# Model weights (large file - use Git LFS or link separately)
+# model.h5   ← uncomment this line if model is too large (>100MB)
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env

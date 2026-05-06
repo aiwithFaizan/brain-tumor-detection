@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(135deg, #141e30, #243b55);
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 420px;
+    padding: 20px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 16px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+input, button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    background: #00c6ff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+canvas {
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#result {
+    margin-top: 12px;
+    font-size: 16px;
+}
